@@ -34,7 +34,7 @@ La venta (relacionar un usuario con un producto) es simplemente el contexto prá
 
 | Inicio de sesión | Panel principal | Registro de ventas |
 |:---:|:---:|:---:|
-| <img src="restaurante_app/assets/capturas/login.png" width="270"/> | <img src="restaurante_app/assets/capturas/panel.png" width="270"/> | <img src="restaurante_app/assets/capturas/ventas.png" width="270"/> |
+| <img src="restaurante_app/assets/captura_login.png" width="270"/> | <img src="restaurante_app/assets/captura_panel.png" width="270"/> | <img src="restaurante_app/assets/captura_ventas.png" width="270"/> |
 
 </div>
 
@@ -92,7 +92,7 @@ restaurante_app/
 ├── assets/
 │   ├── icons/
 │   ├── logo/
-│   └── capturas/
+│   └── captura_login.png, captura_panel.png, captura_ventas.png
 └── main.py
 ```
 
